@@ -1,0 +1,18 @@
+Library/Python/*
+Library/Models/*
+!Library/Models/.gitkeep
+Library/Cache/*
+!Library/Cache/.gitkeep
+Library/Vendor/*
+!Library/Vendor/.gitkeep
+Library/Tools/*
+Application/Source/DiarizerCLI/.build/
+**/__pycache__/
+*.py[cod]
+Logs/*.log
+02 Transcripts/*
+!02 Transcripts/.gitkeep
+01 Audio Inbox/*
+!01 Audio Inbox/.gitkeep
+Transcribe Audio.app/Contents/MacOS/TranscribeAudio
+.DS_Store

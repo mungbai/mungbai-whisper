@@ -1,0 +1,8 @@
+{
+  "whisper_model": "mlx-community/whisper-large-v3-turbo",
+  "fast_whisper_model": "mlx-community/whisper-small-mlx",
+  "minimum_speakers": 1,
+  "maximum_speakers": 3,
+  "merge_gap_seconds": 1.2,
+  "maximum_turn_seconds": 30.0
+}
